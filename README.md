@@ -8,7 +8,7 @@
 - 📄 To know about my experiences [View CV](https://drive.google.com/file/d/11NlTxUOg728-LkMuxMNACaikepvW0zDk/view?usp=sharing)
 - 👨‍💻 Check my portfolio [here](https://saicharan-portfolio.vercel.app/)
 ---
-[![](https://visitcount.itsvg.in/api?id=saivaraprasad48&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=saicharan2108&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saicharanmuvva/) 
