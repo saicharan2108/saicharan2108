@@ -4,7 +4,7 @@
 <img slign="center" src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width=800px height=45px>
 
 - 📫 You can mail me here **saicharan20012007@gmail.com**
-- 🤖 I’m good at `software development & Automation Testing` 
+- 🤖 I’m good at `Software Development & Automation Testing` 
 - 📄 To know about my experiences [View CV](https://drive.google.com/file/d/11NlTxUOg728-LkMuxMNACaikepvW0zDk/view?usp=sharing)
 - 👨‍💻 Check my portfolio [here](https://saicharan-portfolio.vercel.app/)
 ---
